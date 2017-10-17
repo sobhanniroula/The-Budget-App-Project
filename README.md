@@ -1,0 +1,1 @@
+An app which calculates the monthly budget of a person/ family. It has 2 sections: Income & Expenses. Entering all incomes and expenses in a month, it calculates the budget of the month in a quite niece way with a good User Interface. Made by using HTML, CSS & JavaScript. Learnt during JavaScript course from Udemy.
